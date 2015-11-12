@@ -18,7 +18,7 @@ Immutability的出现只为增强react组件性能，同时降低开发者的学
 它有几个优点：
 
 1. 使用方便，利用es6的decorate
-```
+```javascript
 	    import {IBDecorate} from 'immutability';
 	    import {Component} from 'react';
 	    
